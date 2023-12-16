@@ -16,3 +16,10 @@ To run the Hangman Game, follow these steps:
 
 # Navigate to the project directory
 cd hangman-game
+
+Usage
+
+    Run the game using the installation instructions.
+    Enter a single alphabetical character to guess a letter.
+    The game will provide feedback on whether the guessed letter is correct or not.
+    Continue guessing until you either complete the word or run out of lives.
