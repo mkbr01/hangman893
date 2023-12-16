@@ -1,8 +1,4 @@
-
-
-
-
- # Hangman game
+# Hangman game #
 ################
 
 import random
